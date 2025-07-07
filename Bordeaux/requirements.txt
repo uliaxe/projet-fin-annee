@@ -1,0 +1,11 @@
+# Manipulation et analyse de données
+pandas>=2.0.0
+
+# Visualisations
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Environnement Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
