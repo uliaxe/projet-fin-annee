@@ -88,25 +88,11 @@ Analyse des tendances nationales de sécurité routière en France :
 
 ### 🌍 France
 
-- Tendances nationales de la sécurité routière
-- Identification des régions à risque
-- Facteurs macro-économiques et géographiques
-
-## 📁 Structure du Projet
-
-```text
-projet-fin-annee/
-├── readme.md                    # Ce fichier - Vue d'ensemble
-├── Bordeaux/
-│   ├── danger_bordeaux.ipynb    # Analyse Bordeaux
-│   ├── Readme_BDX.md           # Documentation Bordeaux
-│   ├── requirements.txt        # Dépendances Python
-│   ├── trafic/                 # Données de trafic
-│   └── 2023/                   # Données d'accidents 2023
-└── France/
-    ├── Readme_FR.md            # Documentation France
-    └── [analyses nationales]   # À venir
-```
+- **Évolution longitudinale** : Accidents par type de route (2005-2023)
+- **Analyse démographique** : Répartition victimes par sexe et gravité
+- **Impact de l'âge** : Vulnérabilité selon les tranches d'âge (0-17, 18-25, 26-40, 41-60, 61-80, 80+)
+- **Contexte des déplacements** : Gravité selon les motifs de trajet
+- **Données nationales** : Plus d'1 million de lignes analysées sur 18 ans
 
 ## Sources
 
