@@ -92,13 +92,6 @@ Analyse des tendances nationales de sécurité routière en France :
 - Identification des régions à risque
 - Facteurs macro-économiques et géographiques
 
-## 🛠️ Technologies
-
-- **Python** : Pandas, Matplotlib, Seaborn
-- **Jupyter Notebook** : Analyse interactive
-- **Git** : Versioning et collaboration
-- **Markdown** : Documentation
-
 ## 📁 Structure du Projet
 
 ```text
@@ -115,18 +108,7 @@ projet-fin-annee/
     └── [analyses nationales]   # À venir
 ```
 
-## 🤝 Contribution
+## Sources
 
-Ce projet est réalisé dans le cadre d'un projet de fin d'année académique.
-
-### Objectifs pédagogiques
-
-- Maîtrise de l'analyse de données avec Python
-- Visualisation de données complexes
-- Méthodologie de recherche appliquée
-- Communication de résultats scientifiques
-
----
-
-**Projet de Fin d'Année - 2023**  
-*Analyse des données de sécurité routière en France*
+[https://www.data.gouv.fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/](https://www.data.gouv.fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/)
+[https://datahub.bordeaux-metropole.fr/explore/dataset/comptage-du-trafic-2023-bordeaux-metropole/information/](https://datahub.bordeaux-metropole.fr/explore/dataset/comptage-du-trafic-2023-bordeaux-metropole/information/)
