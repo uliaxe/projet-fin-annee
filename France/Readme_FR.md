@@ -112,34 +112,12 @@ Cette analyse présente une étude complète des accidents de la route en France
 - **Gestion multi-format** : CSV avec séparateurs variables
 - **Traitement géospatial** : Filtrage coordonnées GPS
 
-## 📁 Structure des Données
-
-```text
-France/
-├── test_final.ipynb         # Notebook principal d'analyse
-├── Readme_FR.md            # Ce fichier
-└── donnee_accident/        # Dossier des données sources
-    ├── 2005/
-    │   ├── caracteristiques_2005.csv
-    │   ├── lieux_2005.csv
-    │   └── usagers_2005.csv
-    ├── 2008/ ... 2023/      # Autres années
-    └── [structure similaire]
-```
-
 ## 🔄 Reproductibilité
 
 ### Prérequis
 
 - Python 3.8+
 - Bibliothèques : `pandas`, `matplotlib`, `seaborn`, `glob`, `csv`
-
-### Exécution
-
-1. **Placer les données** dans le dossier `donnee_accident/`
-2. **Respecter la structure** par année avec les 3 fichiers CSV
-3. **Lancer le notebook** `test_final.ipynb`
-4. **Exécuter séquentiellement** toutes les cellules
 
 ## 📝 Points Techniques
 
